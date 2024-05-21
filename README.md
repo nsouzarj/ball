@@ -2,7 +2,7 @@
 
 Jodo de Bolinha
 
-## Inciio
+## Inicio
 Jogo de demostração em fluter 
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
